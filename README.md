@@ -2,4 +2,4 @@
 a simple demo for first using
 
 
-I want to say hello to Github.
+I want to say hello to Github and myself.
